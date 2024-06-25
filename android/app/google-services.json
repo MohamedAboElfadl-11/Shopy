@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510103811637",
+    "project_id": "online-shopping-mall-gp",
+    "storage_bucket": "online-shopping-mall-gp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510103811637:android:044ca0aa6e6654a852637c",
+        "android_client_info": {
+          "package_name": "com.example.start_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA19vrkH6J90G6LFnwJ8QIM1-bY_Ay7pLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
